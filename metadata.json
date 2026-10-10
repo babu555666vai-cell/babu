@@ -1,0 +1,6 @@
+{
+  "name": "Mehedi Vai AI Bot",
+  "description": "Premium AI signal predictor bot with advanced algorithmic pattern analysis, live HUD, and cyber security interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
